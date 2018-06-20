@@ -1,0 +1,77 @@
+\select@language {french}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Logo de la soci\IeC {\'e}t\IeC {\'e} ng-enious\relax }}{2}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces ASPCA \IeC {\textendash } Emergency Pet Safety\relax }}{3}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Dogalize\relax }}{4}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Pet First Aid - Red Cross\relax }}{5}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Yummy Pets\relax }}{5}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Pages Facebook\relax }}{6}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Groupes Facebook\relax }}{7}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Comparaison technique entre les solutions existantes\relax }}{8}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Comparaison fonctionnelles entre les solutions existantes\relax }}{9}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Description des principaux fonctionnalit\IeC {\'e}s\relax }}{10}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Description du processus 2tup\relax }}{14}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Description du planning de travail ~ Diagramme de Gantt\relax }}{16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation global\relax }}{23}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } G\IeC {\'e}rer profil \IeC {\guillemotright }\relax }}{24}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } G\IeC {\'e}rer les contacts \IeC {\guillemotright }\relax }}{25}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Poster des annonces \IeC {\guillemotright }\relax }}{26}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } G\IeC {\'e}rer fil d'accueil \IeC {\guillemotright }\relax }}{27}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Contr\IeC {\^o}ler les annonces \IeC {\guillemotright }\relax }}{29}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diagramme de cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Poster sujet de discussion \IeC {\guillemotright }\relax }}{30}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Maquette de l'application pour la Front Office\relax }}{31}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Gestion de profil d'un administrateur\relax }}{31}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Visualisation des listes des sujets\relax }}{32}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces L\IeC {\textquoteright }architecture 2-tiers Firebase\relax }}{34}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Model-View-Controller (MVC)\relax }}{34}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Vue de Kruchten\relax }}{35}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagramme de s\IeC {\'e}quence \IeC {\guillemotleft }G\IeC {\'e}rer profile\IeC {\guillemotright }\relax }}{39}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Diagramme de classes \IeC {\guillemotleft }G\IeC {\'e}rer profile\IeC {\guillemotright }\relax }}{40}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagramme de composant \IeC {\guillemotleft }G\IeC {\'e}rer profile\IeC {\guillemotright }\relax }}{40}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagramme de d\IeC {\'e}ploiement \IeC {\guillemotleft }G\IeC {\'e}rer profile\IeC {\guillemotright }\relax }}{41}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Diagramme de s\IeC {\'e}quence \IeC {\guillemotleft }Poster annonce\IeC {\guillemotright }\relax }}{42}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagramme de classes \IeC {\guillemotleft }Poster annonce\IeC {\guillemotright }\relax }}{43}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagramme de composant \IeC {\guillemotleft }Poster annonce\IeC {\guillemotright }\relax }}{43}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagramme de d\IeC {\'e}ploiement \IeC {\guillemotleft }Poster annonce\IeC {\guillemotright }\relax }}{44}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Diagramme de s\IeC {\'e}quence \IeC {\guillemotleft }G\IeC {\'e}rer fil d'accueil\IeC {\guillemotright }\relax }}{46}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Diagramme de classes \IeC {\guillemotleft }G\IeC {\'e}rer fil d'accueil\IeC {\guillemotright }\relax }}{47}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Diagramme de composant \IeC {\guillemotleft }G\IeC {\'e}rer fil d'accueil\IeC {\guillemotright }\relax }}{47}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Diagramme de d\IeC {\'e}ploiement \IeC {\guillemotleft }G\IeC {\'e}rer fil d'accueil\IeC {\guillemotright }\relax }}{48}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Diagramme de s\IeC {\'e}quence \IeC {\guillemotleft }Contr\IeC {\^o}ler les annonces\IeC {\guillemotright }\relax }}{49}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Diagramme de classes \IeC {\guillemotleft }Contr\IeC {\^o}ler les annonces\IeC {\guillemotright } \relax }}{49}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Diagramme de composant \IeC {\guillemotleft }Contr\IeC {\^o}ler les annonces\IeC {\guillemotright } \relax }}{50}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Diagramme de d\IeC {\'e}ploiement \IeC {\guillemotleft }Contr\IeC {\^o}ler les annonces\IeC {\guillemotright } \relax }}{50}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diagramme de classes globale\relax }}{51}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Mod\IeC {\`e}le MVC propos\IeC {\'e} \relax }}{52}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Logo NodeJs\relax }}{55}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Logo Ionic\relax }}{55}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Logo Angular\relax }}{56}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Logo Firebase\relax }}{56}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Firebase authentication\relax }}{57}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Firebase Realtime Database\relax }}{58}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Firebase Cloud Storage\relax }}{58}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Logo Draw.io\relax }}{59}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Page d'accueil de Github\relax }}{59}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Page d'accueil de Inkscape\relax }}{60}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Logo Visual Studio Code\relax }}{60}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Interface de connexion\relax }}{61}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Interface d'inscription\relax }}{62}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Visualisation de profil de l'utilisateur connect\IeC {\'e}\relax }}{63}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Interface des param\IeC {\`e}tres \relax }}{64}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Visualisation de profil d'un ami(e)\relax }}{65}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Envoyer une demande d'ajout en amis \relax }}{66}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Annulation de l\IeC {\textquoteright }envoi d\IeC {\textquoteright }une demande d\IeC {\textquoteright }ajout en amis\relax }}{67}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Profil d'un utilisateur non ami\relax }}{68}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Composer un message\relax }}{69}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Interface de fil d'accueil\relax }}{70}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Choix de publication de divers types d'annonces\relax }}{71}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Interface de connexion\relax }}{72}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Interface de gestion de profil\relax }}{72}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Interface pour ajouter un nouveau sujet\relax }}{73}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Interface des listes des sujets\relax }}{73}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Interface des feedbacks\relax }}{74}
+\addvspace {10\p@ }

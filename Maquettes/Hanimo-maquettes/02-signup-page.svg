@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="414"
+   height="736"
+   viewBox="0 0 109.5375 194.73334"
+   version="1.1"
+   id="svg892"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="02-signup-page.svg"
+   inkscape:export-filename="C:\Users\jella\Desktop\Hanimo\03-SignUp-Page-errors.png"
+   inkscape:export-xdpi="267.13089"
+   inkscape:export-ydpi="267.13089">
+  <defs
+     id="defs886">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1516">
+      <stop
+         style="stop-color:#fbd5c0;stop-opacity:1"
+         offset="0"
+         id="stop1512" />
+      <stop
+         style="stop-color:#fbf2c0;stop-opacity:1"
+         offset="1"
+         id="stop1514" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1516"
+       id="linearGradient1518-2"
+       x1="109.5375"
+       y1="102.26665"
+       x2="109.5375"
+       y2="297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000001,0,0,0.99999825,5e-6,1.8784961e-4)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="45.546934"
+     inkscape:cy="365.7163"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true">
+    <sodipodi:guide
+       position="3.9687508,190.76446"
+       orientation="705.99901,0"
+       id="guide1699"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.9687508,3.968886"
+       orientation="0,383.99999"
+       id="guide1701"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.56875,3.968886"
+       orientation="-705.99901,0"
+       id="guide1703"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.56875,190.76446"
+       orientation="0,-383.99999"
+       id="guide1705"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata889">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-102.26665)">
+    <rect
+       style="fill:#fbf2c0;stroke-width:0.09515735"
+       x="277.21762"
+       y="140.7338"
+       width="17.128319"
+       height="60.044277"
+       id="rect2" />
+    <rect
+       style="fill:#48392a;stroke-width:0.09515735"
+       x="295.48782"
+       y="140.7338"
+       width="17.128319"
+       height="60.044277"
+       id="rect4" />
+    <rect
+       style="fill:#43281c;stroke-width:0.09515735"
+       x="313.75803"
+       y="140.7338"
+       width="17.128319"
+       height="60.044277"
+       id="rect6" />
+    <rect
+       style="fill:#b68f40;stroke-width:0.09515735"
+       x="332.02823"
+       y="140.7338"
+       width="17.128319"
+       height="60.044277"
+       id="rect8" />
+    <rect
+       style="fill:#f2cd5d;stroke-width:0.09515735"
+       x="350.29843"
+       y="140.7338"
+       width="17.128319"
+       height="60.044277"
+       id="rect10" />
+    <rect
+       id="rect1520"
+       height="60.044277"
+       width="17.128319"
+       y="140.7338"
+       x="258.5018"
+       style="fill:#fbd3c0;fill-opacity:1;stroke-width:0.09515735" />
+    <rect
+       style="display:inline;opacity:1;fill:url(#linearGradient1518-2);fill-opacity:1;stroke:none;stroke-width:0.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+       id="rect1437-6"
+       width="109.5375"
+       height="194.73302"
+       x="-2.8421709e-014"
+       y="102.26665"
+       ry="0.0053770379"
+       inkscape:export-xdpi="267.13089"
+       inkscape:export-ydpi="267.13089" />
+    <g
+       style="display:inline"
+       id="g880-8"
+       transform="matrix(0.32150465,0,0,0.32150465,14.372805,73.777856)">
+      <path
+         id="path4519-2"
+         transform="scale(0.26458333)"
+         d="m 537.50195,433.00977 c -9.38351,8.1651 -18.2603,14.64364 -28.97265,27.23828 -5.43833,11.48991 -7.81897,22.89889 -10.48047,36.36523 -4.52429,8.35476 -7.77566,12.36693 -16.91992,18.93945 -14.15524,7.27707 -39.91261,19.02505 -45.85743,34.33399 -5.69593,11.99471 -10.59585,22.22955 -11.21679,54.05469 20.91515,23.97596 47.96212,34.73527 84.04883,18.84765 12.37859,-6.7031 22.36753,-17.25442 28.3496,-30.05859 0.009,-0.008 0.0199,-0.0169 0.0293,-0.0254 0.14823,-0.33957 0.30413,-0.67099 0.44727,-1.01563 2.94274,-6.63783 3.76351,-10.41718 5.11133,-18.11914 2.27187,-7.37442 5.35243,-15.71241 6.35351,-21.18554 0.34462,-6.77983 -0.40376,-13.69702 -1.96289,-20.71485 -2.21382,-8.77058 -2.27488,-16.46298 -1.16211,-23.57031 0.9668,-4.0732 3.60251,-8.28464 6.69727,-10.26953 6.0469,-2.87467 13.26479,-6.26756 16.875,-11.96289 2.27164,-4.28156 2.78479,-8.00713 2.05273,-12.14258 -3.07128,-0.64313 -7.34992,-1.54793 -10.44531,-3.75 -2.87199,-2.51996 -3.47589,-6.35607 -6.51758,-9.55469 -4.85133,-4.04719 -10.3401,-5.76328 -15.89453,-7.23242 0.14381,-5.4652 0.18518,-7.61077 -0.53516,-20.17773 z"
+         style="fill:#f2cd5d;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.56744187"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4517-6"
+         d="m 111.57924,114.86176 c -0.14971,-0.007 -0.29346,0.0746 -0.38344,0.23047 -0.82408,1.66037 -1.64812,3.37336 -2.4722,5.34542 -1.45712,0.37533 -2.74132,0.60595 -4.54391,1.26917 -0.64996,0.63175 -1.24799,1.16066 -2.13785,2.27221 -1.83819,0.4952 -4.15728,0.7497 -6.347937,1.06867 -0.08632,2.83085 0.633531,4.19039 1.737362,5.67976 2.138389,2.29846 4.189965,1.12568 8.485785,1.79575 1.09138,3.6153 2.33929,7.26205 3.87522,10.96626 -0.0135,0.0375 -0.0259,0.0793 -0.0393,0.1173 0.006,0.003 0.0119,0.006 0.0176,0.009 -0.57176,1.60075 -0.91566,3.30981 -0.9927,5.08806 -0.008,0.17484 -0.009,0.35095 -0.0114,0.52709 -0.0195,3.09325 0.80608,6.74003 3.43132,10.56215 5.5338,6.34364 12.68998,9.19038 22.23792,4.98678 3.27517,-1.77353 5.91807,-4.56524 7.50083,-7.95301 -3.0073,-8.49736 -13.6453,-19.89346 -22.25497,-26.96786 -3.40153,-3.47786 -4.58842,-8.66404 -7.68429,-14.69988 -0.11298,-0.19568 -0.26835,-0.2904 -0.41806,-0.29713 z"
+         style="opacity:0.85;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54418604"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.65424681px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.41589043"
+       x="43.009079"
+       y="135.55258"
+       id="text884-0"><tspan
+         sodipodi:role="line"
+         id="tspan882-5"
+         x="43.009079"
+         y="135.55258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Leckerli One';-inkscape-font-specification:'Leckerli One';fill:#48392a;fill-opacity:1;stroke-width:0.41589043">Hanimo</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#b68f40;fill-opacity:1;stroke:none;stroke-width:0.0358939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+       d="m 49.464665,143.29969 -0.33423,0.33446 c -5.2e-4,5.3e-4 -5.2e-4,0.001 0,0.002 l 1.32569,1.32568 0.33422,0.33421 c 5.2e-4,5.3e-4 0.002,5.3e-4 0.002,0 l 0.33421,-0.33421 0.99027,-0.99027 0.99051,0.99027 0.33422,0.33421 c 5.2e-4,5.3e-4 0.002,5.3e-4 0.002,0 l 0.33421,-0.33421 0.99028,-0.99027 0.9905,0.99027 0.33421,0.33421 c 5.3e-4,5.3e-4 0.002,5.3e-4 0.002,0 l 0.33423,-0.33421 0.99027,-0.99027 0.99051,0.99027 0.3342,0.33421 c 5.3e-4,5.3e-4 0.002,5.3e-4 0.002,0 l 0.33422,-0.33421 1.32591,-1.32568 c 5.3e-4,-5.3e-4 5.3e-4,-10e-4 0,-0.002 l -0.33445,-0.33446 c -5.2e-4,-5.3e-4 -0.002,-5.3e-4 -0.002,0 l -1.32449,1.32473 -0.99051,-0.99027 -0.33421,-0.33446 c -5.2e-4,-5.3e-4 -0.002,-5.3e-4 -0.002,0 l -0.33422,0.33446 -0.99027,0.99027 -0.99051,-0.99027 -0.33421,-0.33446 c -5.2e-4,-5.3e-4 -0.002,-5.3e-4 -0.002,0 l -0.33422,0.33446 -0.99027,0.99027 -0.99051,-0.99027 -0.33422,-0.33446 c -5.2e-4,-5.3e-4 -0.002,-5.3e-4 -0.002,0 l -0.33421,0.33446 -0.99027,0.99027 -1.32473,-1.32473 c -5.3e-4,-5.3e-4 -0.002,-5.3e-4 -0.002,0 z"
+       id="rect1625-6"
+       inkscape:connector-curvature="0" />
+    <g
+       style="display:inline"
+       id="g1570"
+       transform="translate(-5e-6,4.6278118)">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect1707-4"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="181.58797"
+         ry="0.0053505409" />
+      <text
+         id="text1715-3"
+         y="189.21326"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="189.21326"
+           x="8.5985403"
+           id="tspan1713-1"
+           sodipodi:role="line">Pseudo</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1550"
+       transform="translate(-5e-6,18.441594)">
+      <rect
+         ry="0.0053505409"
+         y="256.66614"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect1725-1"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="30.521652"
+         y="264.4057"
+         id="text1729-7"><tspan
+           sodipodi:role="line"
+           id="tspan1727-1"
+           x="30.521652"
+           y="264.4057"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#666666;fill-opacity:1;stroke-width:0.35530186">CREER MON COMPTE</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1565"
+       transform="translate(-5e-6,8.7426178)">
+      <rect
+         ry="0.0053505409"
+         y="199.7623"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect1514"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="207.38759"
+         id="text1518"><tspan
+           sodipodi:role="line"
+           id="tspan1516"
+           x="8.5985403"
+           y="207.38759"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Votre email</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1560"
+       transform="translate(-5e-6,12.857415)">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect1521"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="217.93663"
+         ry="0.0053505409" />
+      <text
+         id="text1525"
+         y="225.56192"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="225.56192"
+           x="8.5985403"
+           id="tspan1523"
+           sodipodi:role="line">Mot de passe</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1555"
+       transform="translate(-5e-6,17.928305)">
+      <rect
+         ry="0.0053505409"
+         y="235.15488"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect1527"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="242.78017"
+         id="text1531"><tspan
+           sodipodi:role="line"
+           id="tspan1529"
+           x="8.5985403"
+           y="242.78017"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Confirmation de mot de passe</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1578"
+       transform="translate(-5e-6,-7.1503906e-6)">
+      <rect
+         ry="0.0054206839"
+         y="163.84821"
+         x="3.8903046"
+         height="12.124733"
+         width="49.633976"
+         id="rect1690-6"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="171.56808"
+         id="text1711-8"><tspan
+           sodipodi:role="line"
+           id="tspan1709-8"
+           x="8.5985403"
+           y="171.56808"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Prénom</tspan></text>
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect1533"
+         width="49.633976"
+         height="12.124733"
+         x="55.934772"
+         y="163.84821"
+         ry="0.0054206839" />
+      <text
+         id="text1537"
+         y="171.56808"
+         x="60.643009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="171.56808"
+           x="60.643009"
+           id="tspan1535"
+           sodipodi:role="line">Nom</tspan></text>
+    </g>
+    <g
+       transform="translate(-5e-6,4.6278118)"
+       id="g6524"
+       style="display:inline">
+      <rect
+         ry="0.0053505409"
+         y="181.58797"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6518"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="189.21326"
+         id="text6522"><tspan
+           sodipodi:role="line"
+           id="tspan6520"
+           x="8.5985403"
+           y="189.21326"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Pseudo</tspan></text>
+    </g>
+    <g
+       transform="translate(-5e-6,18.441594)"
+       id="g6532"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6526"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="256.66614"
+         ry="0.0053505409" />
+      <text
+         id="text6530"
+         y="264.4057"
+         x="30.521652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#666666;fill-opacity:1;stroke-width:0.35530186"
+           y="264.4057"
+           x="30.521652"
+           id="tspan6528"
+           sodipodi:role="line">CREER MON COMPTE</tspan></text>
+    </g>
+    <g
+       transform="translate(-5e-6,8.7426178)"
+       id="g6540"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6534"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="199.7623"
+         ry="0.0053505409" />
+      <text
+         id="text6538"
+         y="207.38759"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="207.38759"
+           x="8.5985403"
+           id="tspan6536"
+           sodipodi:role="line">Votre email</tspan></text>
+    </g>
+    <g
+       transform="translate(-5e-6,12.857415)"
+       id="g6548"
+       style="display:inline">
+      <rect
+         ry="0.0053505409"
+         y="217.93663"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6542"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="225.56192"
+         id="text6546"><tspan
+           sodipodi:role="line"
+           id="tspan6544"
+           x="8.5985403"
+           y="225.56192"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Mot de passe</tspan></text>
+    </g>
+    <g
+       transform="translate(-5e-6,17.928305)"
+       id="g6556"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6550"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="235.15488"
+         ry="0.0053505409" />
+      <text
+         id="text6554"
+         y="242.78017"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="242.78017"
+           x="8.5985403"
+           id="tspan6552"
+           sodipodi:role="line">Confirmation de mot de passe</tspan></text>
+    </g>
+    <g
+       transform="translate(-5e-6,-7.1503906e-6)"
+       id="g6570"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6558"
+         width="49.633976"
+         height="12.124733"
+         x="3.8903046"
+         y="163.84821"
+         ry="0.0054206839" />
+      <text
+         id="text6562"
+         y="171.56808"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="171.56808"
+           x="8.5985403"
+           id="tspan6560"
+           sodipodi:role="line">Prénom</tspan></text>
+      <rect
+         ry="0.0054206839"
+         y="163.84821"
+         x="55.934772"
+         height="12.124733"
+         width="49.633976"
+         id="rect6564"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="60.643009"
+         y="171.56808"
+         id="text6568"><tspan
+           sodipodi:role="line"
+           id="tspan6566"
+           x="60.643009"
+           y="171.56808"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Nom</tspan></text>
+    </g>
+    <g
+       id="g6780"
+       transform="translate(-2.4590962)">
+      <text
+         id="text1623-9"
+         y="155.27713"
+         x="12.271053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="155.27713"
+           x="12.271053"
+           id="tspan1621-3"
+           sodipodi:role="line">Créez votre compte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="62.919868"
+         y="155.27713"
+         id="text6763"><tspan
+           sodipodi:role="line"
+           id="tspan6761"
+           x="62.919868"
+           y="155.27713"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">|</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b68f40;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="66.526764"
+         y="155.27713"
+         id="text6767"><tspan
+           sodipodi:role="line"
+           id="tspan6765"
+           x="66.526764"
+           y="155.27713"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#b68f40;fill-opacity:1;stroke-width:0.35530186">Me Connecter</tspan></text>
+      <rect
+         ry="0"
+         rx="0"
+         y="156.15163"
+         x="66.834679"
+         height="0.26458332"
+         width="34.745037"
+         id="rect6769"
+         style="opacity:1;fill:#b68f40;fill-opacity:1;stroke:none;stroke-width:0.60795069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Valid"
+     style="display:none">
+    <g
+       transform="translate(-5.0000001e-6,-97.638838)"
+       id="g6605"
+       style="display:inline">
+      <rect
+         ry="0.0053505409"
+         y="181.58797"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6599"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="189.21326"
+         id="text6603"><tspan
+           sodipodi:role="line"
+           id="tspan6601"
+           x="8.5985403"
+           y="189.21326"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Pseudo</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-83.825056)"
+       id="g6613"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6607"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="256.66614"
+         ry="0.0053505409" />
+      <text
+         id="text6611"
+         y="264.4057"
+         x="30.521652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#666666;fill-opacity:1;stroke-width:0.35530186"
+           y="264.4057"
+           x="30.521652"
+           id="tspan6609"
+           sodipodi:role="line">CREER MON COMPTE</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-93.524033)"
+       id="g6621"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6615"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="199.7623"
+         ry="0.0053505409" />
+      <text
+         id="text6619"
+         y="207.38759"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="207.38759"
+           x="8.5985403"
+           id="tspan6617"
+           sodipodi:role="line">Votre email</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-89.409236)"
+       id="g6629"
+       style="display:inline">
+      <rect
+         ry="0.0053505409"
+         y="217.93663"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6623"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="225.56192"
+         id="text6627"><tspan
+           sodipodi:role="line"
+           id="tspan6625"
+           x="8.5985403"
+           y="225.56192"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Mot de passe</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-84.338345)"
+       id="g6637"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6631"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="235.15488"
+         ry="0.0053505409" />
+      <text
+         id="text6635"
+         y="242.78017"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="242.78017"
+           x="8.5985403"
+           id="tspan6633"
+           sodipodi:role="line">Confirmation de mot de passe</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-102.26666)"
+       id="g6651"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6639"
+         width="49.633976"
+         height="12.124733"
+         x="3.8903046"
+         y="163.84821"
+         ry="0.0054206839" />
+      <text
+         id="text6643"
+         y="171.56808"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186"
+           y="171.56808"
+           x="8.5985403"
+           id="tspan6641"
+           sodipodi:role="line">Prénom</tspan></text>
+      <rect
+         ry="0.0054206839"
+         y="163.84821"
+         x="55.934772"
+         height="12.124733"
+         width="49.633976"
+         id="rect6645"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="60.643009"
+         y="171.56808"
+         id="text6649"><tspan
+           sodipodi:role="line"
+           id="tspan6647"
+           x="60.643009"
+           y="171.56808"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light Italic';fill:#808080;fill-opacity:1;stroke-width:0.35530186">Nom</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6659"
+       transform="translate(-5.0000001e-6,-97.638838)">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6653"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="181.58797"
+         ry="0.0053505409" />
+      <text
+         id="text6657"
+         y="189.21326"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="189.21326"
+           x="8.5985403"
+           id="tspan6655"
+           sodipodi:role="line">foulen.falten</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6667"
+       transform="translate(-5.0000001e-6,-83.825056)">
+      <rect
+         ry="0.0053505409"
+         y="256.66614"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6661"
+         style="opacity:1;fill:#f2cd5d;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="30.521652"
+         y="264.4057"
+         id="text6665"><tspan
+           sodipodi:role="line"
+           id="tspan6663"
+           x="30.521652"
+           y="264.4057"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#48392a;fill-opacity:1;stroke-width:0.35530186">CREER MON COMPTE</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6675"
+       transform="translate(-5.0000001e-6,-93.524033)">
+      <rect
+         ry="0.0053505409"
+         y="199.7623"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6669"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="207.38759"
+         id="text6673"><tspan
+           sodipodi:role="line"
+           id="tspan6671"
+           x="8.5985403"
+           y="207.38759"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">foulen@gmail.com</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6683"
+       transform="translate(-5.0000001e-6,-89.409236)">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6677"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="217.93663"
+         ry="0.0053505409" />
+      <text
+         id="text6681"
+         y="225.56192"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="225.56192"
+           x="8.5985403"
+           id="tspan6679"
+           sodipodi:role="line">*********</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6691"
+       transform="translate(-5.0000001e-6,-84.338345)">
+      <rect
+         ry="0.0053505409"
+         y="235.15488"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6685"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="242.78017"
+         id="text6689"><tspan
+           sodipodi:role="line"
+           id="tspan6687"
+           x="8.5985403"
+           y="242.78017"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">*********</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g6705"
+       transform="translate(-5.0000001e-6,-102.26666)">
+      <rect
+         ry="0.0054206839"
+         y="163.84821"
+         x="3.8903046"
+         height="12.124733"
+         width="49.633976"
+         id="rect6693"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="171.56808"
+         id="text6697"><tspan
+           sodipodi:role="line"
+           id="tspan6695"
+           x="8.5985403"
+           y="171.56808"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">Foulen</tspan></text>
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#f2cd5d;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6699"
+         width="49.633976"
+         height="12.124733"
+         x="55.934772"
+         y="163.84821"
+         ry="0.0054206839" />
+      <text
+         id="text6703"
+         y="171.56808"
+         x="60.643009"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="171.56808"
+           x="60.643009"
+           id="tspan6701"
+           sodipodi:role="line">Falten</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Errors"
+     style="display:inline">
+    <g
+       transform="translate(-5.0000001e-6,-97.638838)"
+       id="g6327"
+       style="display:inline">
+      <rect
+         ry="0.0053505409"
+         y="181.58797"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6321"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#ea4e3f;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="189.21326"
+         id="text6325"><tspan
+           sodipodi:role="line"
+           id="tspan6323"
+           x="8.5985403"
+           y="189.21326"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">test.25</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-93.524033)"
+       id="g6335"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#ea4e3f;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6329"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="199.7623"
+         ry="0.0053505409" />
+      <text
+         id="text6333"
+         y="207.38759"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="207.38759"
+           x="8.5985403"
+           id="tspan6331"
+           sodipodi:role="line">email@example.com</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-89.409236)"
+       id="g6343"
+       style="display:inline">
+      <rect
+         ry="0.0053505409"
+         y="217.93663"
+         x="3.9687507"
+         height="11.967841"
+         width="101.6"
+         id="rect6337"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#ea4e3f;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="8.5985403"
+         y="225.56192"
+         id="text6341"><tspan
+           sodipodi:role="line"
+           id="tspan6339"
+           x="8.5985403"
+           y="225.56192"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">*****</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-84.338345)"
+       id="g6351"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#ea4e3f;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6345"
+         width="101.6"
+         height="11.967841"
+         x="3.9687507"
+         y="235.15488"
+         ry="0.0053505409" />
+      <text
+         id="text6349"
+         y="242.78017"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="242.78017"
+           x="8.5985403"
+           id="tspan6347"
+           sodipodi:role="line">****</tspan></text>
+    </g>
+    <g
+       transform="translate(-5.0000001e-6,-102.26666)"
+       id="g6365"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#ea4e3f;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1"
+         id="rect6353"
+         width="49.633976"
+         height="12.124733"
+         x="3.8903046"
+         y="163.84821"
+         ry="0.0054206839" />
+      <text
+         id="text6357"
+         y="171.56808"
+         x="8.5985403"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186"
+           y="171.56808"
+           x="8.5985403"
+           id="tspan6355"
+           sodipodi:role="line">Foulen12</tspan></text>
+      <rect
+         ry="0.0054206839"
+         y="163.84821"
+         x="55.934772"
+         height="12.124733"
+         width="49.633976"
+         id="rect6359"
+         style="opacity:1;fill:#fbf2c0;fill-opacity:1;stroke:#ea4e3f;stroke-width:0.37227461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:171.96850586;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.68482971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#48392a;fill-opacity:1;stroke:none;stroke-width:0.35530186"
+         x="60.643009"
+         y="171.56808"
+         id="text6363"><tspan
+           sodipodi:role="line"
+           id="tspan6361"
+           x="60.643009"
+           y="171.56808"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#48392a;fill-opacity:1;stroke-width:0.35530186">Falten$</tspan></text>
+    </g>
+    <text
+       id="text1719"
+       y="77.289391"
+       x="14.906093"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28841448px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.2055259"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85692215px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#ea4e3f;fill-opacity:1;stroke-width:0.2055259"
+         y="77.289391"
+         x="14.906093"
+         id="tspan1717"
+         sodipodi:role="line">Caractères alpha. uniquement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31885433px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.6449284"
+       x="43.784771"
+       y="71.251686"
+       id="text1723"><tspan
+         sodipodi:role="line"
+         id="tspan1721"
+         x="43.784771"
+         y="71.251686"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ionicons;-inkscape-font-specification:Ionicons;fill:#ea4e3f;fill-opacity:1;stroke-width:0.6449284"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28841448px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.2055259"
+       x="67.023651"
+       y="77.289391"
+       id="text6416"><tspan
+         sodipodi:role="line"
+         id="tspan6414"
+         x="67.023651"
+         y="77.289391"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85692215px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#ea4e3f;fill-opacity:1;stroke-width:0.2055259">Caractères alpha. uniquement</tspan></text>
+    <text
+       id="text6420"
+       y="71.251686"
+       x="95.902328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31885433px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.6449284"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ionicons;-inkscape-font-specification:Ionicons;fill:#ea4e3f;fill-opacity:1;stroke-width:0.6449284"
+         y="71.251686"
+         x="95.902328"
+         id="tspan6418"
+         sodipodi:role="line"></tspan></text>
+    <text
+       id="text6432"
+       y="99.6064"
+       x="80.840942"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28841448px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.2055259"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85692215px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#ea4e3f;fill-opacity:1;stroke-width:0.2055259"
+         y="99.6064"
+         x="80.840942"
+         id="tspan6430"
+         sodipodi:role="line">Pseudo déjà utilisé</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31885433px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.6449284"
+       x="95.902328"
+       y="93.568695"
+       id="text6436"><tspan
+         sodipodi:role="line"
+         id="tspan6434"
+         x="95.902328"
+         y="93.568695"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ionicons;-inkscape-font-specification:Ionicons;fill:#ea4e3f;fill-opacity:1;stroke-width:0.6449284"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28841448px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.2055259"
+       x="66.751633"
+       y="121.92341"
+       id="text6440"><tspan
+         sodipodi:role="line"
+         id="tspan6438"
+         x="66.751633"
+         y="121.92341"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85692215px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#ea4e3f;fill-opacity:1;stroke-width:0.2055259">email déjà utilisé/email erroné</tspan></text>
+    <text
+       id="text6444"
+       y="115.8857"
+       x="95.902328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31885433px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.6449284"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ionicons;-inkscape-font-specification:Ionicons;fill:#ea4e3f;fill-opacity:1;stroke-width:0.6449284"
+         y="115.8857"
+         x="95.902328"
+         id="tspan6442"
+         sodipodi:role="line"></tspan></text>
+    <text
+       id="text6448"
+       y="144.37405"
+       x="36.900562"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28841448px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.2055259"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85692215px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#ea4e3f;fill-opacity:1;stroke-width:0.2055259"
+         y="144.37405"
+         x="36.900562"
+         id="tspan6446"
+         sodipodi:role="line">Longueur min. 8 caractères avec une maj. et un chiffre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31885433px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.6449284"
+       x="95.902328"
+       y="138.33633"
+       id="text6452"><tspan
+         sodipodi:role="line"
+         id="tspan6450"
+         x="95.902328"
+         y="138.33633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ionicons;-inkscape-font-specification:Ionicons;fill:#ea4e3f;fill-opacity:1;stroke-width:0.6449284"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28841448px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.2055259"
+       x="76.152412"
+       y="166.4238"
+       id="text6456"><tspan
+         sodipodi:role="line"
+         id="tspan6454"
+         x="76.152412"
+         y="166.4238"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.85692215px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#ea4e3f;fill-opacity:1;stroke-width:0.2055259">Mot de passe différent</tspan></text>
+    <text
+       id="text6460"
+       y="160.38608"
+       x="95.902328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31885433px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ea4e3f;fill-opacity:1;stroke:none;stroke-width:0.6449284"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ionicons;-inkscape-font-specification:Ionicons;fill:#ea4e3f;fill-opacity:1;stroke-width:0.6449284"
+         y="160.38608"
+         x="95.902328"
+         id="tspan6458"
+         sodipodi:role="line"></tspan></text>
+  </g>
+</svg>

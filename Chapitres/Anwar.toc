@@ -1,0 +1,118 @@
+\select@language {french}
+\contentsline {chapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{i}
+\contentsline {chapter}{\numberline {1}Contexte g\IeC {\'e}n\IeC {\'e}ral et \IeC {\'e}tude de l\IeC {\textquoteright }existant}{1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}
+\contentsline {section}{\numberline {1.2}Description soci\IeC {\'e}t\IeC {\'e} d\IeC {\textquoteright }accueil}{1}
+\contentsline {section}{\numberline {1.3}Contexte g\IeC {\'e}n\IeC {\'e}ral et probl\IeC {\'e}matique}{2}
+\contentsline {section}{\numberline {1.4}\IeC {\'E}tude de l\IeC {\textquoteright }existant}{3}
+\contentsline {subsection}{\numberline {1.4.1}Applications connexes}{3}
+\contentsline {subsubsection}{ASPCA \IeC {\textendash } Emergency Pet Safety}{3}
+\contentsline {subsubsection}{Dogalize}{4}
+\contentsline {subsubsection}{Pet First Aid - Red Cross}{4}
+\contentsline {subsubsection}{YummyPets}{5}
+\contentsline {subsection}{\numberline {1.4.2}Les solutions des r\IeC {\'e}seaux sociaux}{6}
+\contentsline {subsubsection}{Facebook}{6}
+\contentsline {subsection}{\numberline {1.4.3}Discussion}{7}
+\contentsline {subsubsection}{Comparaison technique}{8}
+\contentsline {subsubsection}{Comparaison technique}{9}
+\contentsline {section}{\numberline {1.5}Solution propos\IeC {\'e}e }{9}
+\contentsline {section}{\numberline {1.6}M\IeC {\'e}thodologie de r\IeC {\'e}alisation }{10}
+\contentsline {subsection}{\numberline {1.6.1}Mod\IeC {\`e}le en V}{10}
+\contentsline {subsection}{\numberline {1.6.2}Mod\IeC {\`e}le en Scrum}{11}
+\contentsline {subsection}{\numberline {1.6.3}Mod\IeC {\`e}le RUP}{12}
+\contentsline {subsection}{\numberline {1.6.4}Mod\IeC {\`e}le en 2TUP}{13}
+\contentsline {subsection}{\numberline {1.6.5}Mise en pratique du processus 2TUP }{13}
+\contentsline {section}{\numberline {1.7}Diagramme de Gantt}{15}
+\contentsline {section}{\numberline {1.8}Conclusion}{16}
+\contentsline {chapter}{\numberline {2}Capture et sp\IeC {\'e}cification des besoins}{17}
+\contentsline {section}{\numberline {2.1}Introduction}{17}
+\contentsline {section}{\numberline {2.2}Capture des besoins}{17}
+\contentsline {subsection}{\numberline {2.2.1}Capture des besoins fonctionnels}{17}
+\contentsline {subsubsection}{Front-Office}{17}
+\contentsline {subsubsection}{Back-Office}{19}
+\contentsline {subsection}{\numberline {2.2.2}Capture des besoins non-fonctionnels}{19}
+\contentsline {subsection}{\numberline {2.2.3}Capture des besoins techniques}{20}
+\contentsline {section}{\numberline {2.3}Technologies utilis\IeC {\'e}es }{21}
+\contentsline {section}{\numberline {2.4}Sp\IeC {\'e}cification des besoins fonctionnels }{21}
+\contentsline {subsection}{\numberline {2.4.1}UML}{21}
+\contentsline {subsection}{\numberline {2.4.2}Diagramme de cas d\IeC {\textquoteright }utilisation}{22}
+\contentsline {subsubsection}{Diagramme de cas d\IeC {\textquoteright }utilisation global}{22}
+\contentsline {subsubsection}{Cas d\IeC {\textquoteright }utilisation : G\IeC {\'e}rer profil}{24}
+\contentsline {subsubsection}{Cas d\IeC {\textquoteright }utilisation : G\IeC {\'e}rer les contacts }{25}
+\contentsline {subsubsection}{Cas d\IeC {\textquoteright }utilisation : Poster des annonces}{26}
+\contentsline {subsubsection}{Cas d\IeC {\textquoteright }utilisation : G\IeC {\'e}rer fil d'accueil }{27}
+\contentsline {subsubsection}{Cas d\IeC {\textquoteright }utilisation : Contr\IeC {\^o}ler les annonces}{29}
+\contentsline {subsubsection}{Cas d\IeC {\textquoteright }utilisation : Poster sujet de discussion}{30}
+\contentsline {section}{\numberline {2.5}Sp\IeC {\'e}cification pr\IeC {\'e}liminaire des maquettes}{31}
+\contentsline {subsection}{\numberline {2.5.1}Front Office}{31}
+\contentsline {subsection}{\numberline {2.5.2}Back Office}{31}
+\contentsline {section}{\numberline {2.6}Conclusion}{32}
+\contentsline {chapter}{\numberline {3}Conception}{33}
+\contentsline {section}{\numberline {3.1}Introduction}{33}
+\contentsline {section}{\numberline {3.2}Architecture 2-tiers Firebase}{33}
+\contentsline {section}{\numberline {3.3}Architecture MVC(Mod\IeC {\`e}le-vue-contr\IeC {\^o}leur)}{34}
+\contentsline {section}{\numberline {3.4}Conception detaill\IeC {\'e} }{35}
+\contentsline {subsection}{\numberline {3.4.1}Vue de kruchten}{35}
+\contentsline {subsubsection}{Vue de cas d\IeC {\textquoteright }utilisation}{35}
+\contentsline {subsubsection}{Vue logique}{35}
+\contentsline {subsubsection}{La vue processus}{36}
+\contentsline {subsubsection}{La vue de r\IeC {\'e}alisation }{37}
+\contentsline {subsubsection}{La vue de d\IeC {\'e}ploiement}{37}
+\contentsline {subsection}{\numberline {3.4.2}Conception de cas d\IeC {\textquoteright }utilisation "G\IeC {\'e}rer profile"}{38}
+\contentsline {subsubsection}{Vue processus :Diagramme de s\IeC {\'e}quence}{38}
+\contentsline {subsubsection}{Vue logique :Diagramme de classes}{40}
+\contentsline {subsubsection}{Vue de r\IeC {\'e}alisation :Digramme de composant}{40}
+\contentsline {subsubsection}{Vue de d\IeC {\'e}ploiement :Diagramme de d\IeC {\'e}ploiement}{41}
+\contentsline {subsection}{\numberline {3.4.3}Conception de cas d\IeC {\textquoteright }utilisation "Poster annonce"}{41}
+\contentsline {subsubsection}{Vue processus :Diagramme de s\IeC {\'e}quence}{41}
+\contentsline {subsubsection}{Vue logique :Diagramme de classes}{43}
+\contentsline {subsubsection}{Vue de r\IeC {\'e}alisation :Diagramme de composant}{43}
+\contentsline {subsubsection}{Vue de d\IeC {\'e}ploiement :Diagramme de d\IeC {\'e}ploiement}{44}
+\contentsline {subsection}{\numberline {3.4.4}Conception de cas d\IeC {\textquoteright }utilisation "G\IeC {\'e}rer fil d'accueil"}{45}
+\contentsline {subsubsection}{Vue processus :Diagramme de s\IeC {\'e}quence}{45}
+\contentsline {subsubsection}{Vue logique :Diagramme de classes}{47}
+\contentsline {subsubsection}{Vue de r\IeC {\'e}alisation :Diagramme de composant}{47}
+\contentsline {subsubsection}{Vue de d\IeC {\'e}ploiement :Diagramme de d\IeC {\'e}ploiement}{48}
+\contentsline {subsection}{\numberline {3.4.5}Conception de cas d\IeC {\textquoteright }utilisation "Contr\IeC {\^o}ler les annonces"}{48}
+\contentsline {subsubsection}{Vue processus :Diagramme de s\IeC {\'e}quence}{48}
+\contentsline {subsubsection}{Vue logique :Diagramme de classes}{49}
+\contentsline {subsubsection}{Vue de r\IeC {\'e}alisation :Diagramme de composant}{50}
+\contentsline {subsubsection}{Vue de d\IeC {\'e}ploiement :Diagramme de d\IeC {\'e}ploiement}{50}
+\contentsline {subsection}{\numberline {3.4.6}Diagramme de classes globale}{51}
+\contentsline {section}{\numberline {3.5}Mod\IeC {\`e}le MVC propos\IeC {\'e}}{52}
+\contentsline {section}{\numberline {3.6}Conclusion}{53}
+\contentsline {chapter}{\numberline {4}R\IeC {\'e}alisation}{54}
+\contentsline {section}{\numberline {4.1}Introduction}{54}
+\contentsline {section}{\numberline {4.2}Environnement de d\IeC {\'e}veloppement}{54}
+\contentsline {subsection}{\numberline {4.2.1}NodeJS}{54}
+\contentsline {subsection}{\numberline {4.2.2}Ionic 3 Framework}{55}
+\contentsline {subsection}{\numberline {4.2.3}Angular 5}{55}
+\contentsline {subsection}{\numberline {4.2.4}Firebase}{56}
+\contentsline {subsubsection}{Authentification}{56}
+\contentsline {subsubsection}{RealTime Database}{57}
+\contentsline {subsubsection}{Firebase Cloud Storage}{58}
+\contentsline {subsection}{\numberline {4.2.5}Draw.io}{59}
+\contentsline {subsection}{\numberline {4.2.6}Github}{59}
+\contentsline {subsection}{\numberline {4.2.7}Inkscape}{59}
+\contentsline {subsection}{\numberline {4.2.8}Visual Studio Code}{60}
+\contentsline {section}{\numberline {4.3}Pr\IeC {\'e}sentation de la solution "Hanimo"}{61}
+\contentsline {subsection}{\numberline {4.3.1}Front Office}{61}
+\contentsline {subsubsection}{Interface de connexion }{61}
+\contentsline {subsubsection}{Interface d'inscription}{62}
+\contentsline {subsubsection}{Interface de profil de l'utilisateur connect\IeC {\'e}}{63}
+\contentsline {subsubsection}{Interface de param\IeC {\`e}tres}{64}
+\contentsline {subsubsection}{Interface de profil d'un ami(e)}{65}
+\contentsline {subsubsection}{Interface d'envoi d'une demande d'ajout en amis}{66}
+\contentsline {subsubsection}{Interface d\IeC {\textquoteright }annulation de l\IeC {\textquoteright }envoi d\IeC {\textquoteright }une demande d\IeC {\textquoteright }ajout en amis}{67}
+\contentsline {subsubsection}{Interface de profil d'un utilisateur non ami}{68}
+\contentsline {subsubsection}{Interface de r\IeC {\'e}daction d\IeC {\textquoteright }un message}{69}
+\contentsline {subsubsection}{Interface de fil d'accueil}{70}
+\contentsline {subsubsection}{Interface d\IeC {\textquoteright }ajout d\IeC {\textquoteright }annonces / publication}{71}
+\contentsline {subsection}{\numberline {4.3.2}Back Office}{72}
+\contentsline {subsubsection}{Interface de connexion}{72}
+\contentsline {subsubsection}{Interface de changement de mot de passe}{72}
+\contentsline {subsubsection}{Interface d'ajout d'un nouveau sujet}{73}
+\contentsline {subsubsection}{Interface des listes des sujets publi\IeC {\'e}s }{73}
+\contentsline {subsubsection}{Interface des feedbacks}{74}
+\contentsline {section}{\numberline {4.4}Conclusion}{74}
+\contentsline {chapter}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}{75}
